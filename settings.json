@@ -1,0 +1,5 @@
+{
+    "webhook": "https://discord.com/api/webhooks/",
+    "servername": "Server Name Here",
+    "serverip": "Server IP Here"
+}
