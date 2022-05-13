@@ -1,5 +1,6 @@
 # imagine paying for autodumpers goofy ahh nigs buying public dumpers with changed webhooks
 goofy ahh autodumper with webhooks and all dat
+the code is shit ion care cry about it goofy
 
 ```
 Setup and shi
